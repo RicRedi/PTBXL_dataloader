@@ -1,0 +1,21 @@
+# @package dataset
+# List of paths to the dataset directories
+path:
+ - C:/ptbxl/
+  
+#  Content filtering
+sampling_f: 100
+
+#  Content filtering
+channels:
+  - i
+  - ii
+  - V1
+  - V2
+  - V3
+  - V4
+  - V5
+  - V6
+
+  
+ref: 'sex'
